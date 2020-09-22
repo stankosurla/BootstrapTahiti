@@ -1,0 +1,22 @@
+#bodyindex {
+    background-image: url(images/blue.jpg);
+    height: 100%;
+    
+}
+#meetourteam {
+    background-color: black;
+}
+#meetourteam{
+    color: gold;
+    padding: 1em;
+}
+#meetourteam h1, h2 {
+    border-bottom: 5px solid gold;
+    padding-bottom: 0.5em;
+}
+img {
+    display: block;
+    width: 100%;
+    min-height: 100%;
+
+}
